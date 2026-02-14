@@ -35,7 +35,7 @@ button {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background-image: url('/img/banner.png');
+    background-image: url('img/banner.png');
     padding: 5px 100px;
     height: 40px;
 
